@@ -1,0 +1,51 @@
+Brand,Model,Fuel Type,Transmission,Manufacture Year,Price (USD),Units Sold,Country
+BMW,Hatchback,Electric,Manual,2013,26680.89,30220,Germany
+Mercedes,SUV,Petrol,Manual,2016,33622.33,5820,India
+Kia,Truck,Petrol,Automatic,2013,68733.67,22199,France
+Honda,Crossover,Diesel,Automatic,2014,32838.31,26700,UK
+Ford,SUV,Petrol,Manual,2021,19749.65,31912,Japan
+Mercedes,Hatchback,Diesel,Automatic,2016,15588.16,21703,USA
+Chevrolet,Truck,Electric,Automatic,2011,71382.39,25965,UK
+Chevrolet,Crossover,Petrol,Automatic,2015,67069.28,10912,Germany
+Volkswagen,Hatchback,Petrol,Manual,2020,59702.27,10944,India
+BMW,Van,Hybrid,Automatic,2010,60933.44,35570,India
+BMW,Truck,Petrol,Manual,2011,72550.1,26331,Germany
+Nissan,Coupe,Petrol,Automatic,2016,29746.31,12773,France
+Nissan,SUV,Hybrid,Manual,2020,60214.99,43827,USA
+BMW,Hatchback,Electric,Manual,2014,23285.98,11453,India
+Toyota,Van,Petrol,Automatic,2017,79248.88,37940,Germany
+Volkswagen,Coupe,Diesel,Automatic,2021,41808.52,47129,India
+Ford,Crossover,Electric,Manual,2022,62801.7,23948,USA
+Kia,Hatchback,Electric,Automatic,2018,59953.39,25137,UK
+BMW,Truck,Electric,Manual,2015,69579.27,34083,UK
+Volkswagen,Sedan,Diesel,Automatic,2017,67698.19,45396,India
+Honda,Crossover,Diesel,Manual,2013,38781.85,24810,UK
+Ford,Crossover,Petrol,Manual,2020,22034.59,13474,USA
+Volkswagen,Hatchback,Hybrid,Automatic,2018,50024.28,35028,UK
+Volkswagen,SUV,Petrol,Automatic,2016,63246.79,19867,France
+Nissan,Crossover,Hybrid,Manual,2012,59535.6,36215,India
+Mercedes,Hatchback,Electric,Automatic,2018,64689.37,24323,UK
+Kia,Crossover,Diesel,Automatic,2024,79264.54,11875,India
+Ford,Convertible,Electric,Automatic,2016,64419.72,49632,Japan
+Mercedes,Coupe,Electric,Manual,2014,57887.01,4809,South Korea
+Kia,Crossover,Electric,Manual,2018,56319.02,47387,Japan
+Ford,Crossover,Petrol,Automatic,2014,54668.44,5562,South Korea
+Nissan,Convertible,Electric,Manual,2011,40215.52,11093,Japan
+Kia,Truck,Diesel,Automatic,2012,34445.56,12810,Japan
+Honda,Hatchback,Diesel,Automatic,2020,66454.37,43868,France
+Honda,Coupe,Hybrid,Manual,2012,54513.98,18802,Germany
+Honda,Crossover,Electric,Manual,2013,21129.94,30490,South Korea
+Toyota,Crossover,Diesel,Automatic,2012,78639.31,16114,USA
+Chevrolet,Sedan,Petrol,Automatic,2024,64397.26,28447,USA
+Mercedes,SUV,Petrol,Automatic,2011,73470.25,16203,Japan
+Mercedes,Hatchback,Hybrid,Manual,2018,45430.92,49656,UK
+Ford,Truck,Diesel,Automatic,2010,63630.08,35911,Germany
+Volkswagen,SUV,Hybrid,Manual,2014,21899.78,38330,Germany
+Mercedes,Hatchback,Electric,Automatic,2015,61767.45,28195,Japan
+Honda,SUV,Hybrid,Manual,2018,71978.05,4519,Japan
+Nissan,Coupe,Petrol,Manual,2010,62673.2,43589,South Korea
+Hyundai,Coupe,Petrol,Manual,2018,68659.83,22691,Germany
+Hyundai,Coupe,Petrol,Automatic,2023,47945.82,23709,USA
+Toyota,Van,Petrol,Manual,2022,41124.8,21778,South Korea
+Nissan,Truck,Petrol,Automatic,2014,64369.77,48955,France
+Ford,Van,Electric,Manual,2024,60705.2,23575,Japan

@@ -1,0 +1,51 @@
+Employee ID,Department,Job Role,Gender,Education Level,Age,Years of Experience,Monthly Salary,Last Performance Rating,Training Hours,Certifications,Projects Completed,Leaves Taken (YTD),Satisfaction Score,Location
+E2596,Operations,Developer,Female,Bachelor's,39,12,13564.66,1.8,92,5,11,20,9.4,Houston
+E7036,R&D,Consultant,Other,High School,59,22,6691.71,2.0,20,5,10,25,7.7,Los Angeles
+E6726,Finance,Executive,Other,Bachelor's,59,29,13420.04,1.4,59,2,6,28,9.5,Chicago
+E7739,R&D,Developer,Male,Bachelor's,33,27,12017.72,2.7,10,5,7,10,3.5,Houston
+E7371,Marketing,Analyst,Female,High School,42,24,6090.24,2.7,82,4,13,7,1.9,New York
+E1971,Sales,Executive,Other,Master's,54,5,13611.73,3.6,39,2,7,30,7.0,Phoenix
+E9135,R&D,Executive,Other,Master's,59,30,7207.43,3.3,14,0,7,7,9.4,New York
+E8148,Marketing,Manager,Male,Bachelor's,55,25,5713.93,4.7,50,0,9,3,7.7,Houston
+E5445,Sales,Consultant,Male,Master's,25,35,8925.62,3.8,68,2,9,28,8.6,New York
+E2715,Finance,Consultant,Female,Master's,37,18,13897.14,4.8,83,5,14,10,9.4,Houston
+E4310,Operations,Consultant,Male,High School,59,35,6876.16,4.8,1,2,10,13,7.3,Houston
+E9485,Marketing,Consultant,Female,Master's,26,33,6086.9,1.2,82,4,9,2,3.5,Phoenix
+E3411,IT,Developer,Female,PhD,35,9,5212.79,3.5,39,2,3,0,8.7,Phoenix
+E9052,Finance,Executive,Female,Master's,23,15,7448.66,3.7,6,4,13,12,1.3,Remote
+E4047,Marketing,Executive,Other,Master's,51,25,12371.07,5.0,21,0,7,23,5.3,Chicago
+E2581,Sales,Consultant,Other,Master's,56,25,11617.32,4.7,83,5,2,24,7.8,Phoenix
+E1680,Operations,Consultant,Female,PhD,38,2,11649.11,1.6,32,5,15,10,9.0,Chicago
+E4299,Sales,Analyst,Male,Master's,37,33,11915.34,3.7,82,1,8,29,9.9,Remote
+E1486,Finance,Developer,Female,High School,30,12,13382.93,1.1,19,3,5,6,7.8,Phoenix
+E6830,IT,Developer,Male,Bachelor's,57,16,7988.63,2.3,14,3,7,26,9.4,Los Angeles
+E4253,Operations,Manager,Male,High School,58,22,4537.84,3.2,98,3,12,3,8.2,Houston
+E1243,HR,Developer,Male,PhD,48,34,7219.62,1.7,89,3,1,17,6.6,Chicago
+E1269,Finance,Executive,Other,Master's,32,4,3655.55,4.6,46,1,5,8,8.3,Phoenix
+E3075,HR,Manager,Female,High School,36,28,7748.43,1.2,69,5,13,9,5.3,Houston
+E3235,Sales,Analyst,Male,PhD,22,3,3490.7,2.1,15,5,3,30,7.1,Chicago
+E4198,HR,Consultant,Male,Bachelor's,39,29,6679.75,4.7,53,3,2,18,9.9,Houston
+E3407,Finance,Analyst,Female,PhD,36,26,4653.74,4.0,42,0,10,21,1.9,Phoenix
+E1318,Sales,Executive,Other,High School,26,15,13120.08,2.0,53,4,13,29,9.4,New York
+E8760,Sales,Executive,Other,Bachelor's,23,33,7544.68,4.1,45,1,1,15,9.2,Houston
+E8517,Marketing,Manager,Female,PhD,32,9,4108.31,2.2,64,5,10,23,8.2,Phoenix
+E3054,Operations,Developer,Other,PhD,53,24,10812.13,3.2,88,2,5,17,8.6,New York
+E3359,Sales,Analyst,Male,Master's,50,34,9626.91,2.4,19,4,12,26,2.9,Chicago
+E9938,Sales,Consultant,Male,Master's,40,12,3035.65,4.8,84,4,6,22,7.4,Los Angeles
+E3169,IT,Developer,Other,High School,41,26,12579.59,3.6,33,1,11,6,7.1,Chicago
+E6896,Finance,Consultant,Male,Bachelor's,44,1,11127.04,2.4,55,4,12,27,8.8,Los Angeles
+E8770,Sales,Analyst,Female,Master's,31,28,12069.15,4.3,3,5,11,3,4.4,New York
+E9868,Operations,Manager,Other,PhD,36,30,5444.95,4.9,27,4,2,1,2.7,New York
+E8144,Marketing,Analyst,Other,High School,23,3,9130.24,3.7,31,0,3,13,5.6,Phoenix
+E7663,IT,Executive,Other,PhD,41,17,11155.14,4.9,79,2,7,17,1.5,New York
+E9971,Sales,Executive,Female,High School,49,11,12079.78,1.9,89,0,7,28,8.1,Remote
+E8805,Finance,Executive,Other,PhD,28,18,6342.66,1.5,80,0,6,29,1.8,Chicago
+E6176,IT,Manager,Male,Master's,50,23,8952.86,4.7,78,0,8,19,6.1,Phoenix
+E5465,Operations,Developer,Female,High School,44,24,8883.95,4.8,37,0,10,24,4.3,New York
+E7712,IT,Manager,Male,Master's,55,19,3384.22,3.3,78,1,5,11,2.9,Remote
+E6991,Marketing,Consultant,Male,Bachelor's,25,35,13756.29,3.9,45,0,15,30,1.1,Chicago
+E4859,Marketing,Developer,Other,Bachelor's,48,23,3418.63,2.5,23,5,10,26,5.9,Remote
+E8523,Finance,Manager,Other,Bachelor's,29,6,10375.08,3.1,72,5,14,20,8.1,Houston
+E8556,HR,Executive,Female,PhD,30,21,7422.57,4.1,26,0,12,23,1.7,New York
+E3961,IT,Manager,Other,High School,48,35,7545.15,4.9,16,3,7,7,5.7,Phoenix
+E9654,R&D,Consultant,Male,High School,52,8,9420.71,3.6,95,4,8,23,6.8,New York
