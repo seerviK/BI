@@ -1,0 +1,301 @@
+Transaction ID,User Name,Gender,Card Number,Bank Name,ATM Location,Transaction Type,Transaction Amount,Transaction Date,Transaction Time,Account Balance After Transaction,Status
+TXN1001,Jon Phillips,Male,5570940814873601,ICICI Bank,Thane,Mini Statement,0,2025-04-17,04:16:25,33260,Failed
+TXN1002,Cameron Keith,Male,9479771580378685,ICICI Bank,Nagpur,Cash Withdrawal,3261,2025-04-02,17:42:45,9448,Success
+TXN1003,Dillon Hall,Male,8337443001111020,Axis Bank,Nagpur,Balance Enquiry,0,2025-04-07,06:44:56,32320,Success
+TXN1004,Susan Brown,Female,2979048829363402,HDFC Bank,Pune,Cash Withdrawal,1022,2025-04-13,10:35:34,14740,Success
+TXN1005,Mr. David Noble II,Male,8243764361601497,HDFC Bank,Mumbai,Cash Withdrawal,5424,2025-04-14,12:07:46,1771,Failed
+TXN1006,Denise Mitchell,Female,0807864566089201,ICICI Bank,Pune,Cash Deposit,7396,2025-04-03,18:49:34,42642,Success
+TXN1007,Mr. William Mann,Male,4875175073654551,Axis Bank,Thane,Mini Statement,0,2025-04-14,15:38:39,8058,Success
+TXN1008,Benjamin Greene,Male,4837893345803783,ICICI Bank,Nagpur,Fund Transfer,3108,2025-04-05,17:09:15,9416,Success
+TXN1009,Evelyn Bowman,Female,1313718305896430,HDFC Bank,Nagpur,Mini Statement,0,2025-04-17,22:20:59,24083,Success
+TXN1010,Peggy Cooper,Female,8143099610829757,State Bank of India,Nagpur,Balance Enquiry,0,2025-04-14,15:12:15,19588,Success
+TXN1011,Ryan Miller,Male,2168272443983286,ICICI Bank,Nashik,Fund Transfer,6503,2025-04-15,15:11:40,48487,Success
+TXN1012,Emily Andrews,Female,7768702429486129,Kotak Bank,Thane,Cash Withdrawal,9098,2025-04-18,17:48:33,30446,Failed
+TXN1013,Jaclyn Brandt,Female,3950140540576911,ICICI Bank,Nashik,Mini Statement,0,2025-04-07,22:57:47,13621,Success
+TXN1014,April Jackson,Female,0597917935699248,Axis Bank,Pune,Fund Transfer,4514,2025-04-17,23:09:49,16879,Failed
+TXN1015,Robert Jackson,Male,2311881081399203,Axis Bank,Pune,Mini Statement,0,2025-04-13,01:27:42,27103,Success
+TXN1016,Emily Farmer,Female,1272138734996230,State Bank of India,Thane,Fund Transfer,7390,2025-04-09,01:43:44,47492,Failed
+TXN1017,Leslie Nelson,Female,7257432763213269,Axis Bank,Mumbai,Mini Statement,0,2025-04-11,13:19:07,49470,Failed
+TXN1018,Jeremy Long,Male,4216308639446654,Axis Bank,Mumbai,Cash Withdrawal,1179,2025-04-04,13:46:30,23369,Failed
+TXN1019,Paul Morris,Male,2284227510538360,Axis Bank,Thane,Cash Deposit,5999,2025-04-03,06:14:04,83580,Success
+TXN1020,Tara Davis,Female,9893070475113507,State Bank of India,Nashik,Mini Statement,0,2025-04-07,13:15:49,24262,Success
+TXN1021,Mr. Joshua White,Male,6171480036547075,State Bank of India,Thane,Balance Enquiry,0,2025-04-19,14:17:43,48579,Failed
+TXN1022,Lucas Jones,Male,0733929496151180,HDFC Bank,Pune,Cash Deposit,8619,2025-04-08,02:34:16,89393,Failed
+TXN1023,Lisa Mclaughlin,Female,8986110787831836,State Bank of India,Thane,Mini Statement,0,2025-04-21,07:30:34,7983,Failed
+TXN1024,Brian Robinson,Male,9172537308767422,ICICI Bank,Pune,Cash Withdrawal,4953,2025-04-14,01:41:46,23333,Success
+TXN1025,Mary Faulkner,Female,7919966810319530,Kotak Bank,Nashik,Cash Deposit,8994,2025-04-14,09:24:06,56671,Failed
+TXN1026,Katherine Arnold,Female,9570618232062690,Kotak Bank,Thane,Cash Deposit,7622,2025-04-13,02:14:52,39508,Failed
+TXN1027,Nicholas Ryan,Male,9354365309524948,HDFC Bank,Mumbai,Cash Deposit,9106,2025-04-13,00:03:02,89393,Success
+TXN1028,David Taylor,Male,6646809464417613,State Bank of India,Nashik,Cash Withdrawal,8793,2025-04-03,05:29:14,34946,Success
+TXN1029,Alexander Kirk,Male,8385932734714210,State Bank of India,Nagpur,Fund Transfer,4750,2025-04-20,23:05:54,37337,Failed
+TXN1030,Erin Wood,Female,1992071077933103,Axis Bank,Pune,Fund Transfer,6312,2025-04-06,01:51:20,21335,Success
+TXN1031,Amanda Humphrey,Female,5681247364225859,ICICI Bank,Nashik,Fund Transfer,1484,2025-04-08,17:57:58,35280,Failed
+TXN1032,Karen Gonzalez,Female,5334850228976805,State Bank of India,Mumbai,Fund Transfer,1817,2025-04-06,20:30:56,49321,Success
+TXN1033,Carlos Reed,Male,6350299960677497,State Bank of India,Nashik,Balance Enquiry,0,2025-04-07,06:34:23,29876,Success
+TXN1034,Richard Howell,Male,9628624311579372,ICICI Bank,Mumbai,Cash Deposit,1865,2025-04-15,02:07:27,23632,Success
+TXN1035,Tyler Lowery,Male,0254112233551142,Axis Bank,Nagpur,Mini Statement,0,2025-04-08,22:28:41,40814,Failed
+TXN1036,Sarah White,Female,1448420083580555,HDFC Bank,Thane,Mini Statement,0,2025-04-10,18:57:33,17261,Success
+TXN1037,Patricia English,Female,4612415636791148,State Bank of India,Nagpur,Cash Withdrawal,6176,2025-04-21,01:06:46,24565,Success
+TXN1038,Alison Simpson,Female,3151194148917555,Axis Bank,Mumbai,Fund Transfer,2791,2025-04-15,04:10:03,45996,Failed
+TXN1039,Amy Peterson,Female,3622299391818870,State Bank of India,Thane,Fund Transfer,8778,2025-04-21,19:07:15,43511,Failed
+TXN1040,Cameron Gonzales,Male,3065294148279509,State Bank of India,Mumbai,Balance Enquiry,0,2025-04-20,04:17:54,5848,Success
+TXN1041,Jason Cooper,Male,4011995642216554,Kotak Bank,Nagpur,Cash Withdrawal,9346,2025-04-01,12:40:14,38533,Success
+TXN1042,Katelyn Leach,Female,0157958533672050,Kotak Bank,Nashik,Mini Statement,0,2025-04-12,14:09:16,10737,Success
+TXN1043,Gary Cruz,Male,4009576968543270,ICICI Bank,Nashik,Fund Transfer,3495,2025-04-14,02:58:59,36948,Success
+TXN1044,David Stephens,Male,3740879665832173,ICICI Bank,Nashik,Fund Transfer,2710,2025-04-18,06:07:56,34229,Failed
+TXN1045,Jennifer Ross,Female,4545980157313713,Axis Bank,Mumbai,Cash Withdrawal,4171,2025-04-04,13:25:31,25619,Failed
+TXN1046,James Thomas,Male,8813668952238444,Kotak Bank,Thane,Cash Deposit,4246,2025-04-01,18:50:56,16890,Failed
+TXN1047,Lawrence Hicks,Male,2132685457782885,Axis Bank,Mumbai,Mini Statement,0,2025-04-12,16:09:45,3509,Success
+TXN1048,Miranda White,Female,3700622214341295,Kotak Bank,Mumbai,Cash Deposit,4778,2025-04-17,08:31:08,85914,Failed
+TXN1049,Curtis Malone,Male,2519893141377269,ICICI Bank,Nagpur,Cash Deposit,3859,2025-04-04,01:57:59,70108,Success
+TXN1050,Sharon Anderson,Female,4718439430579860,Axis Bank,Pune,Fund Transfer,2140,2025-04-08,11:58:28,6143,Failed
+TXN1051,Charles Davis,Male,8135734770257845,Kotak Bank,Mumbai,Fund Transfer,2069,2025-04-04,17:36:09,22095,Failed
+TXN1052,Kristen Houston,Female,7867039595826116,HDFC Bank,Thane,Fund Transfer,3500,2025-04-16,09:48:07,8240,Failed
+TXN1053,Teresa Smith,Female,5193627640661764,Kotak Bank,Thane,Mini Statement,0,2025-04-11,17:45:17,49170,Success
+TXN1054,Dylan Hayes,Male,7429802330356988,Kotak Bank,Mumbai,Balance Enquiry,0,2025-04-02,01:51:02,13131,Success
+TXN1055,Cathy George,Female,6728056676453419,ICICI Bank,Nashik,Cash Withdrawal,9366,2025-04-06,15:08:01,28100,Success
+TXN1056,Briana Fuller,Female,7393787701589234,State Bank of India,Thane,Cash Deposit,7611,2025-04-20,22:41:54,28898,Failed
+TXN1057,Michele Fowler,Female,2190816907086289,ICICI Bank,Nashik,Balance Enquiry,0,2025-04-19,23:27:48,17903,Success
+TXN1058,Gary Robinson,Male,3044624523909260,Axis Bank,Mumbai,Cash Deposit,5075,2025-04-05,22:15:02,78690,Failed
+TXN1059,Todd George,Male,6869144059684965,ICICI Bank,Pune,Fund Transfer,7100,2025-04-05,22:55:33,21305,Failed
+TXN1060,Bethany Johnson,Female,9271706753911504,Kotak Bank,Pune,Cash Withdrawal,2522,2025-04-04,20:34:09,25051,Failed
+TXN1061,Lee King,Male,9820689983974304,Axis Bank,Thane,Mini Statement,0,2025-04-14,01:05:56,10877,Failed
+TXN1062,Kevin Moore,Male,0244596877723004,Axis Bank,Nagpur,Cash Deposit,1240,2025-04-19,23:22:38,13686,Failed
+TXN1063,Barbara Allen,Female,0900401291840843,Kotak Bank,Mumbai,Balance Enquiry,0,2025-04-14,02:51:31,21572,Failed
+TXN1064,Vernon Jackson,Male,9627138623833107,HDFC Bank,Mumbai,Cash Withdrawal,3910,2025-04-13,04:14:31,15602,Success
+TXN1065,James Hoover,Male,9620385023437233,State Bank of India,Nashik,Mini Statement,0,2025-04-16,09:23:00,19520,Success
+TXN1066,Susan Wall,Female,2129936789255051,ICICI Bank,Nagpur,Cash Deposit,7975,2025-04-13,04:24:05,58976,Success
+TXN1067,Adam Carr,Male,0680483586036571,HDFC Bank,Nashik,Fund Transfer,862,2025-04-13,14:21:29,5066,Success
+TXN1068,Jessica Garcia,Female,4538786697615684,HDFC Bank,Mumbai,Cash Deposit,5418,2025-04-01,01:38:52,41609,Success
+TXN1069,Rebecca Fisher,Female,8679135782217750,Kotak Bank,Pune,Fund Transfer,4017,2025-04-18,15:32:25,36971,Success
+TXN1070,Victor Wilcox,Male,9285954106526731,ICICI Bank,Thane,Balance Enquiry,0,2025-04-07,13:24:08,34061,Failed
+TXN1071,William Woods,Male,2301101440582540,Kotak Bank,Nashik,Mini Statement,0,2025-04-01,23:35:31,2719,Success
+TXN1072,Kevin Greer,Male,8905571223773219,Kotak Bank,Thane,Fund Transfer,2384,2025-04-10,00:04:43,26889,Failed
+TXN1073,Willie Hoffman,Male,4988435331045727,Kotak Bank,Nagpur,Cash Withdrawal,9446,2025-04-06,05:05:24,35603,Failed
+TXN1074,Heather Newman,Female,0604991570143294,ICICI Bank,Nashik,Mini Statement,0,2025-04-19,10:32:52,25157,Failed
+TXN1075,Michelle Jones,Female,9779677813224098,Kotak Bank,Pune,Fund Transfer,5137,2025-04-05,14:26:43,12060,Success
+TXN1076,Traci Johnson,Female,0980198885157331,ICICI Bank,Mumbai,Cash Deposit,8953,2025-04-10,01:32:11,54966,Success
+TXN1077,Karen Rich,Female,3388809777190234,State Bank of India,Mumbai,Fund Transfer,1577,2025-04-20,12:08:59,26382,Failed
+TXN1078,Nichole Kerr,Female,0559999134726999,Kotak Bank,Nashik,Balance Enquiry,0,2025-04-12,19:11:24,1011,Failed
+TXN1079,Mary Cooper,Female,8445358287794374,HDFC Bank,Nashik,Cash Deposit,7028,2025-04-19,14:47:35,52591,Success
+TXN1080,Zachary Cunningham DVM,Male,2108442773641576,State Bank of India,Nagpur,Mini Statement,0,2025-04-02,22:20:18,37883,Success
+TXN1081,Linda Yates,Female,0843895993289303,HDFC Bank,Pune,Cash Deposit,7164,2025-04-03,20:00:01,78441,Failed
+TXN1082,Jose Pittman,Male,3199479133884800,Kotak Bank,Mumbai,Fund Transfer,7775,2025-04-21,03:43:23,32936,Success
+TXN1083,Tracy Howard,Female,3658930513225628,HDFC Bank,Mumbai,Fund Transfer,6889,2025-04-20,12:01:56,6631,Success
+TXN1084,Kayla Bradshaw,Female,6217360907001837,Kotak Bank,Pune,Balance Enquiry,0,2025-04-15,20:46:58,47892,Success
+TXN1085,Mary Sanchez,Female,5710896894606749,HDFC Bank,Pune,Fund Transfer,9225,2025-04-18,10:16:24,24692,Success
+TXN1086,Anthony Williams,Male,5749320977678020,ICICI Bank,Nagpur,Balance Enquiry,0,2025-04-15,17:46:45,30510,Success
+TXN1087,Jeffrey Taylor,Male,8419440589672179,ICICI Bank,Pune,Fund Transfer,6484,2025-04-20,13:26:45,22307,Failed
+TXN1088,Christopher Coleman,Male,7041082776065824,HDFC Bank,Nashik,Mini Statement,0,2025-04-06,21:18:53,4083,Failed
+TXN1089,Douglas Benton,Male,5913004652056518,HDFC Bank,Mumbai,Fund Transfer,3838,2025-04-21,09:29:27,46785,Failed
+TXN1090,Daniel Douglas,Male,9029935658683175,ICICI Bank,Nagpur,Cash Withdrawal,4538,2025-04-10,05:38:46,27320,Success
+TXN1091,Jamie Schwartz,Female,5000769719543618,State Bank of India,Mumbai,Fund Transfer,7329,2025-04-13,04:41:25,10934,Success
+TXN1092,Teresa Figueroa,Female,9364687354830544,Axis Bank,Nashik,Cash Withdrawal,2849,2025-04-09,03:31:45,15302,Failed
+TXN1093,Vincent Allen,Male,6496977971692404,HDFC Bank,Nagpur,Mini Statement,0,2025-04-11,22:43:09,32119,Success
+TXN1094,Christopher Martin,Male,0397711653365015,State Bank of India,Nagpur,Balance Enquiry,0,2025-04-13,22:25:17,18115,Failed
+TXN1095,Pedro Cameron,Male,3093812431360608,HDFC Bank,Nashik,Cash Withdrawal,698,2025-04-02,15:16:11,13215,Failed
+TXN1096,Jeffrey Campbell,Male,0963051367871696,HDFC Bank,Pune,Balance Enquiry,0,2025-04-03,16:22:12,39558,Success
+TXN1097,Aaron Wood,Male,9955176030773011,Kotak Bank,Mumbai,Fund Transfer,6641,2025-04-05,20:40:30,23631,Success
+TXN1098,John Lyons,Male,2465112502193654,Axis Bank,Nashik,Mini Statement,0,2025-04-09,20:18:34,24725,Failed
+TXN1099,Chad Davis,Male,4719308820384505,State Bank of India,Mumbai,Fund Transfer,6853,2025-04-01,18:33:06,2450,Success
+TXN1100,Brenda Simpson,Female,7478729031457949,ICICI Bank,Thane,Mini Statement,0,2025-04-01,00:58:01,27172,Failed
+TXN1101,Diana Torres,Female,6803239015019649,Kotak Bank,Thane,Fund Transfer,8074,2025-04-12,23:39:56,20803,Success
+TXN1102,Ashley Frederick,Female,0515558960146879,Axis Bank,Pune,Balance Enquiry,0,2025-04-05,11:53:28,31105,Success
+TXN1103,Mariah Johnson,Female,1990765446213979,State Bank of India,Mumbai,Balance Enquiry,0,2025-04-02,13:56:15,48078,Success
+TXN1104,Daniel Henderson,Male,2609405590003539,ICICI Bank,Pune,Cash Withdrawal,7868,2025-04-04,19:24:50,24558,Success
+TXN1105,April Gates,Female,9509510295803042,ICICI Bank,Nashik,Mini Statement,0,2025-04-10,17:11:37,43969,Failed
+TXN1106,Kathleen Reeves,Female,7542683563053773,ICICI Bank,Nashik,Cash Deposit,7166,2025-04-07,10:28:58,25301,Failed
+TXN1107,Jason Patel,Male,2443781966961168,ICICI Bank,Pune,Cash Deposit,6955,2025-04-19,17:36:49,73011,Success
+TXN1108,Katherine Johnson,Female,2101670974564444,State Bank of India,Mumbai,Balance Enquiry,0,2025-04-13,15:15:49,44086,Failed
+TXN1109,Shirley Garrett,Female,2724161369269651,Kotak Bank,Thane,Mini Statement,0,2025-04-07,08:45:34,7048,Failed
+TXN1110,Mary Smith,Female,8112341517148780,Axis Bank,Mumbai,Cash Deposit,5532,2025-04-06,00:08:51,64625,Success
+TXN1111,Kylie Duran,Female,1234693359607855,Kotak Bank,Thane,Fund Transfer,2079,2025-04-20,17:17:05,39333,Failed
+TXN1112,Jeffrey Boone,Male,0499580084947837,Kotak Bank,Thane,Cash Deposit,3463,2025-04-19,21:31:20,77350,Success
+TXN1113,Christina Russell,Female,2842310378709762,HDFC Bank,Nagpur,Fund Transfer,903,2025-04-17,20:47:04,11172,Failed
+TXN1114,Connor Hill,Male,3772410121043935,Kotak Bank,Mumbai,Cash Deposit,9480,2025-04-05,13:03:21,60812,Success
+TXN1115,Gary Hansen,Male,7232945934593649,ICICI Bank,Thane,Cash Deposit,3118,2025-04-07,08:52:05,21874,Success
+TXN1116,Lauren Snyder,Female,7927184610104990,State Bank of India,Mumbai,Cash Deposit,1918,2025-04-20,11:31:03,12460,Success
+TXN1117,Robert Nicholson,Male,7936862801098756,Kotak Bank,Mumbai,Cash Deposit,4153,2025-04-06,17:17:34,91321,Failed
+TXN1118,Elizabeth Tucker,Female,0840327251653016,Axis Bank,Nagpur,Balance Enquiry,0,2025-04-17,13:15:47,37316,Success
+TXN1119,Richard Moore,Male,8820898435298882,State Bank of India,Mumbai,Cash Deposit,1629,2025-04-05,13:05:27,58317,Success
+TXN1120,Jennifer Jordan,Female,5696146733492047,ICICI Bank,Nagpur,Cash Withdrawal,1184,2025-04-11,15:55:26,22600,Success
+TXN1121,Kenneth Williams,Male,3054924457557587,HDFC Bank,Pune,Mini Statement,0,2025-04-14,17:04:13,34783,Failed
+TXN1122,Chad Hancock,Male,0846124157486603,ICICI Bank,Nashik,Fund Transfer,6017,2025-04-18,02:13:41,49345,Failed
+TXN1123,Jason Gonzales,Male,2595089299604370,ICICI Bank,Nagpur,Balance Enquiry,0,2025-04-06,03:02:45,7276,Failed
+TXN1124,Jasmine Hudson,Female,5806587934362987,Axis Bank,Thane,Mini Statement,0,2025-04-06,04:28:48,35708,Success
+TXN1125,Bianca Robertson,Female,9124177692792168,Axis Bank,Pune,Balance Enquiry,0,2025-04-16,12:17:10,3370,Failed
+TXN1126,Justin Lang,Male,3735110588103700,Axis Bank,Pune,Fund Transfer,2715,2025-04-15,06:55:55,46880,Success
+TXN1127,Suzanne Young,Female,2838226471808134,HDFC Bank,Nashik,Fund Transfer,9422,2025-04-19,17:02:35,18265,Success
+TXN1128,Karen Pratt,Female,2980001508792160,Kotak Bank,Nashik,Fund Transfer,9109,2025-04-10,06:21:53,36677,Failed
+TXN1129,Paul Taylor,Male,7254651367361577,HDFC Bank,Nashik,Cash Deposit,7797,2025-04-13,19:19:04,8240,Success
+TXN1130,Rebecca Jones,Female,4572841228280323,ICICI Bank,Thane,Mini Statement,0,2025-04-11,11:48:59,20953,Success
+TXN1131,Corey Rose,Male,7866783889713240,ICICI Bank,Nagpur,Balance Enquiry,0,2025-04-12,21:53:17,25253,Failed
+TXN1132,John Lopez,Male,4931514310870142,Kotak Bank,Nashik,Cash Withdrawal,8819,2025-04-04,08:44:02,25742,Failed
+TXN1133,Martha Mitchell,Female,3473039899364089,ICICI Bank,Nagpur,Cash Deposit,7838,2025-04-03,00:12:21,61134,Failed
+TXN1134,Michelle Stevens,Female,4992887814216186,HDFC Bank,Nagpur,Cash Deposit,2828,2025-04-12,13:42:32,81634,Failed
+TXN1135,Christina Ortega,Female,6652734811565359,State Bank of India,Nagpur,Cash Deposit,3360,2025-04-04,17:51:34,63610,Success
+TXN1136,Allison Cox,Female,4150234822480257,HDFC Bank,Nagpur,Cash Withdrawal,7579,2025-04-18,01:44:16,33838,Success
+TXN1137,Nichole Kelley,Female,4492271957435877,ICICI Bank,Mumbai,Mini Statement,0,2025-04-02,12:04:46,15959,Failed
+TXN1138,Jessica Williams,Female,5731701171522697,Axis Bank,Pune,Balance Enquiry,0,2025-04-21,03:18:52,32233,Success
+TXN1139,Cynthia Hunt,Female,4414452855583205,Axis Bank,Pune,Cash Deposit,1790,2025-04-02,11:47:43,69323,Success
+TXN1140,Stephanie James,Female,5530449071788124,Axis Bank,Nagpur,Fund Transfer,3551,2025-04-16,21:48:55,47820,Success
+TXN1141,Monique Stewart,Female,1594011697723802,ICICI Bank,Mumbai,Fund Transfer,2824,2025-04-13,18:07:21,4656,Failed
+TXN1142,Elizabeth Bowman,Female,7551905289806479,State Bank of India,Nagpur,Balance Enquiry,0,2025-04-05,15:05:04,17239,Failed
+TXN1143,Paul Lynch Jr.,Male,3884067880182149,Axis Bank,Mumbai,Cash Withdrawal,708,2025-04-21,14:51:53,5086,Success
+TXN1144,Patricia Valdez,Female,8777978542697045,Axis Bank,Pune,Cash Deposit,2749,2025-04-15,08:36:41,37923,Success
+TXN1145,Scott Johnson,Male,3723322728710443,HDFC Bank,Nagpur,Balance Enquiry,0,2025-04-13,04:36:20,31176,Success
+TXN1146,Roger Smith,Male,7888723648437541,Kotak Bank,Nagpur,Fund Transfer,3602,2025-04-03,13:37:27,29733,Success
+TXN1147,Kelly Young,Male,1670879217288427,Kotak Bank,Nagpur,Cash Deposit,1786,2025-04-13,19:09:45,45587,Failed
+TXN1148,Justin Baker,Male,1125366923156697,ICICI Bank,Pune,Cash Withdrawal,6107,2025-04-02,09:44:58,44191,Failed
+TXN1149,Paul Shelton,Male,5005848555424329,ICICI Bank,Nashik,Cash Deposit,6815,2025-04-18,21:38:18,68347,Success
+TXN1150,Christopher Miranda,Male,5632631663970948,ICICI Bank,Nagpur,Balance Enquiry,0,2025-04-11,16:56:47,48998,Failed
+TXN1151,Carolyn Gould,Female,5626477660318573,Kotak Bank,Mumbai,Fund Transfer,4079,2025-04-07,02:11:10,2709,Success
+TXN1152,Taylor Price,Male,8733876499135616,State Bank of India,Mumbai,Balance Enquiry,0,2025-04-10,10:57:08,42692,Success
+TXN1153,David Mcguire,Male,2852511799282658,State Bank of India,Pune,Fund Transfer,5001,2025-04-19,22:46:34,4505,Failed
+TXN1154,Ryan Torres,Male,8438079289544668,Kotak Bank,Mumbai,Balance Enquiry,0,2025-04-13,23:55:27,12960,Success
+TXN1155,Edward Wagner,Male,7282328518544352,ICICI Bank,Nagpur,Fund Transfer,2187,2025-04-21,09:54:01,29394,Failed
+TXN1156,Victoria Montgomery,Female,9049282047596480,HDFC Bank,Nagpur,Balance Enquiry,0,2025-04-05,10:27:47,24002,Failed
+TXN1157,Cynthia Salinas,Female,0074903500287415,State Bank of India,Thane,Fund Transfer,1460,2025-04-12,14:05:13,6586,Success
+TXN1158,Robert Erickson,Male,1395405144812260,Kotak Bank,Nashik,Cash Deposit,8281,2025-04-01,00:03:51,20909,Success
+TXN1159,Michele Brewer,Female,2680924173919033,HDFC Bank,Thane,Mini Statement,0,2025-04-08,15:49:30,27262,Failed
+TXN1160,Jeremy Hood,Male,7111760737779410,HDFC Bank,Nagpur,Cash Deposit,6290,2025-04-15,07:04:01,60057,Success
+TXN1161,Joe Carroll,Male,2043441819423049,HDFC Bank,Nagpur,Cash Withdrawal,9539,2025-04-03,03:08:07,31334,Failed
+TXN1162,Melinda Dixon,Female,0949432674187510,Kotak Bank,Thane,Fund Transfer,9175,2025-04-09,10:24:22,40785,Failed
+TXN1163,Kayla Schroeder,Female,9992834209762440,State Bank of India,Thane,Mini Statement,0,2025-04-14,15:00:20,22774,Success
+TXN1164,Cory Smith,Male,0146469266456804,Axis Bank,Thane,Cash Deposit,9707,2025-04-01,12:00:30,16519,Failed
+TXN1165,Kimberly Brown,Female,6298096444553982,HDFC Bank,Thane,Fund Transfer,6775,2025-04-07,17:09:53,36719,Failed
+TXN1166,Tiffany Adams,Female,3665169501684277,State Bank of India,Nagpur,Cash Withdrawal,8042,2025-04-12,11:48:31,8574,Success
+TXN1167,Todd Edwards,Male,2901150731317156,State Bank of India,Nagpur,Cash Withdrawal,3868,2025-04-14,17:44:35,2813,Failed
+TXN1168,Julie Smith,Female,0805866525058779,ICICI Bank,Mumbai,Fund Transfer,7610,2025-04-17,05:02:02,26435,Failed
+TXN1169,Kyle Kaiser,Male,0904022630192466,ICICI Bank,Thane,Mini Statement,0,2025-04-12,23:55:31,27603,Success
+TXN1170,Amber Gordon,Female,3174888445873828,Kotak Bank,Mumbai,Fund Transfer,3827,2025-04-19,22:39:53,8430,Failed
+TXN1171,Kyle Bray,Male,6603666209260302,Kotak Bank,Pune,Fund Transfer,5718,2025-04-04,03:22:45,26604,Failed
+TXN1172,Katelyn Oconnor,Female,9270152431011663,State Bank of India,Thane,Balance Enquiry,0,2025-04-02,20:17:25,46242,Success
+TXN1173,Anthony Riley,Male,8224036357863557,HDFC Bank,Pune,Fund Transfer,6986,2025-04-08,06:07:36,4548,Success
+TXN1174,Michael Johnson,Male,2257266664734366,State Bank of India,Pune,Mini Statement,0,2025-04-08,02:19:09,40376,Failed
+TXN1175,Alexa Morse,Female,2360969095511066,Axis Bank,Pune,Mini Statement,0,2025-04-05,12:23:00,18638,Failed
+TXN1176,Sarah Jackson,Female,5232857216698270,Axis Bank,Mumbai,Fund Transfer,5906,2025-04-13,16:08:32,16955,Success
+TXN1177,Nicholas Kelly PhD,Male,9194741728059165,HDFC Bank,Nashik,Balance Enquiry,0,2025-04-01,04:27:07,18737,Failed
+TXN1178,Matthew Bowers,Male,0405814451150847,State Bank of India,Thane,Balance Enquiry,0,2025-04-09,10:11:21,31111,Success
+TXN1179,Kendra Taylor,Female,8877889000915272,Axis Bank,Mumbai,Cash Withdrawal,2790,2025-04-19,22:54:35,5600,Failed
+TXN1180,Angela Hill,Female,4486739566554692,Kotak Bank,Mumbai,Cash Deposit,4263,2025-04-14,03:51:39,56243,Success
+TXN1181,Christine Scott,Female,8349370189777960,Axis Bank,Nagpur,Cash Withdrawal,2714,2025-04-10,04:33:04,7298,Failed
+TXN1182,Justin Davis,Male,2039105957481764,State Bank of India,Mumbai,Mini Statement,0,2025-04-03,16:59:54,34369,Failed
+TXN1183,Sarah Torres,Female,3142617345876288,HDFC Bank,Nagpur,Cash Withdrawal,9563,2025-04-19,08:14:38,6379,Failed
+TXN1184,Kristi Durham,Female,2448690117466872,ICICI Bank,Thane,Mini Statement,0,2025-04-16,15:06:07,41854,Success
+TXN1185,Caroline White,Female,0466395359033728,Axis Bank,Pune,Balance Enquiry,0,2025-04-21,18:43:13,47020,Failed
+TXN1186,Jeffrey Mcmillan,Male,5547563259313104,Axis Bank,Mumbai,Cash Deposit,1786,2025-04-05,10:13:22,64896,Success
+TXN1187,Melissa Harris,Female,6892307054722335,ICICI Bank,Thane,Cash Withdrawal,3314,2025-04-14,14:02:39,44218,Success
+TXN1188,Larry Rivas,Male,3902255662521948,ICICI Bank,Nagpur,Cash Deposit,3292,2025-04-08,17:21:03,54958,Success
+TXN1189,Lisa Levine,Female,5474002636043184,Axis Bank,Nagpur,Cash Withdrawal,7786,2025-04-13,02:11:16,15483,Failed
+TXN1190,Monique Suarez,Female,2644874230818865,Kotak Bank,Nashik,Cash Deposit,6657,2025-04-03,04:05:54,38152,Success
+TXN1191,Leah Fitzpatrick PhD,Female,6811486692655498,HDFC Bank,Nashik,Balance Enquiry,0,2025-04-02,06:22:16,40553,Failed
+TXN1192,Rachel Burns,Female,8206220420392755,Axis Bank,Mumbai,Cash Deposit,6133,2025-04-11,18:50:56,60852,Success
+TXN1193,Aaron Sampson,Male,2073026892041755,Kotak Bank,Thane,Fund Transfer,5381,2025-04-07,17:17:37,25461,Success
+TXN1194,Jessica Weiss,Female,1553904124836834,Kotak Bank,Nashik,Cash Withdrawal,3832,2025-04-15,21:48:46,38686,Failed
+TXN1195,Matthew Reynolds,Male,9213691576961426,HDFC Bank,Mumbai,Mini Statement,0,2025-04-17,02:02:06,47310,Failed
+TXN1196,Sandra Sanchez,Female,7731054677782557,ICICI Bank,Nashik,Mini Statement,0,2025-04-15,14:59:42,38906,Failed
+TXN1197,Karen Thompson,Female,5713113050845514,HDFC Bank,Nagpur,Cash Withdrawal,6224,2025-04-11,22:52:11,2563,Failed
+TXN1198,Terry Gonzalez,Female,7903719528182575,ICICI Bank,Nagpur,Cash Withdrawal,5806,2025-04-19,17:48:43,47766,Failed
+TXN1199,Jonathan Faulkner,Male,9377573350361089,Kotak Bank,Pune,Cash Withdrawal,4148,2025-04-19,13:58:16,24875,Success
+TXN1200,Kaitlin Hull,Female,2659043483864180,State Bank of India,Thane,Cash Withdrawal,7554,2025-04-13,06:25:02,25233,Failed
+TXN1201,Anthony Estrada,Male,0426732480873049,Axis Bank,Thane,Fund Transfer,913,2025-04-09,02:48:10,24082,Failed
+TXN1202,Chad Sosa,Male,3969127681986869,HDFC Bank,Nashik,Cash Withdrawal,6780,2025-04-16,06:00:20,33288,Success
+TXN1203,Thomas Harrison,Male,6720171478374749,Axis Bank,Nagpur,Mini Statement,0,2025-04-20,16:00:17,18959,Success
+TXN1204,Phillip Johnson,Male,4434404254339870,Axis Bank,Nashik,Cash Deposit,8653,2025-04-02,02:02:40,95600,Success
+TXN1205,Brandy Mcdaniel,Female,8444912882884735,Axis Bank,Nagpur,Balance Enquiry,0,2025-04-11,10:32:32,12892,Success
+TXN1206,Zachary West,Male,0637545980719734,State Bank of India,Thane,Mini Statement,0,2025-04-15,17:33:25,42656,Failed
+TXN1207,Dana Walker,Female,3240438530791950,HDFC Bank,Mumbai,Fund Transfer,2738,2025-04-21,03:02:07,2138,Failed
+TXN1208,Justin Joyce,Male,5185678200727347,State Bank of India,Nagpur,Cash Withdrawal,9527,2025-04-19,12:33:47,18126,Failed
+TXN1209,Daniel Harrington,Male,7940134729029739,Kotak Bank,Nagpur,Mini Statement,0,2025-04-17,17:02:52,47243,Failed
+TXN1210,Teresa Dixon,Female,5794821149183957,Axis Bank,Thane,Mini Statement,0,2025-04-17,22:33:10,32910,Success
+TXN1211,John Gibson,Male,5097359162658281,Axis Bank,Thane,Cash Deposit,5876,2025-04-17,06:32:33,86615,Failed
+TXN1212,Cheryl Anderson,Female,1342235845943930,HDFC Bank,Nagpur,Cash Withdrawal,9804,2025-04-05,13:11:58,27062,Failed
+TXN1213,Sarah Jordan,Female,6800354049736605,HDFC Bank,Thane,Mini Statement,0,2025-04-16,11:48:28,19009,Success
+TXN1214,Heather Moore,Female,7221786061771103,Axis Bank,Pune,Fund Transfer,4962,2025-04-15,06:58:46,7077,Success
+TXN1215,James Garcia,Male,8424632728156176,Kotak Bank,Thane,Fund Transfer,1018,2025-04-02,20:40:07,7663,Success
+TXN1216,Glenn Adams,Male,1571108984527657,State Bank of India,Nagpur,Mini Statement,0,2025-04-16,16:44:20,15080,Success
+TXN1217,Colleen Peterson,Female,1007554165084017,Axis Bank,Nashik,Cash Withdrawal,8874,2025-04-03,15:47:15,13291,Failed
+TXN1218,Kenneth Singleton,Male,4228693534280814,ICICI Bank,Thane,Cash Withdrawal,3232,2025-04-14,06:43:56,31925,Failed
+TXN1219,Colleen Rogers,Female,2451697884215683,ICICI Bank,Nashik,Cash Withdrawal,5105,2025-04-06,17:52:40,28238,Success
+TXN1220,John Decker,Male,9619081251594081,Axis Bank,Pune,Balance Enquiry,0,2025-04-15,22:58:05,19152,Success
+TXN1221,Joseph Reese,Male,9090018007548109,State Bank of India,Nashik,Balance Enquiry,0,2025-04-09,03:11:16,20543,Failed
+TXN1222,Jeffrey Garcia,Male,6115582872020128,HDFC Bank,Nashik,Balance Enquiry,0,2025-04-11,15:10:01,35941,Success
+TXN1223,David Dean,Male,4029217597196242,Axis Bank,Nagpur,Balance Enquiry,0,2025-04-08,06:30:56,33607,Failed
+TXN1224,Felicia Torres,Female,7897104994623262,HDFC Bank,Thane,Cash Deposit,4588,2025-04-14,03:57:51,39571,Failed
+TXN1225,Ronald Campbell Jr.,Male,3692532366522573,Axis Bank,Thane,Balance Enquiry,0,2025-04-01,22:45:57,48706,Success
+TXN1226,Jessica Rodgers,Female,2897654023285079,State Bank of India,Nagpur,Balance Enquiry,0,2025-04-16,00:07:17,31036,Failed
+TXN1227,Nicole Nelson,Female,2186839654784870,HDFC Bank,Nashik,Cash Withdrawal,9058,2025-04-15,07:14:38,8476,Success
+TXN1228,Michael Nelson,Male,8152274969145597,Kotak Bank,Thane,Balance Enquiry,0,2025-04-16,21:17:12,40466,Success
+TXN1229,Victoria Payne,Female,6525848491256400,State Bank of India,Mumbai,Cash Withdrawal,4874,2025-04-19,05:42:31,42200,Failed
+TXN1230,Gabriella Miller,Female,9730365578470673,Axis Bank,Mumbai,Mini Statement,0,2025-04-05,04:10:21,41236,Success
+TXN1231,Timothy Hudson,Male,7278142268843393,HDFC Bank,Nashik,Cash Deposit,2671,2025-04-17,09:33:34,50707,Success
+TXN1232,Sydney Lewis,Female,8785922777439159,Kotak Bank,Pune,Cash Withdrawal,2054,2025-04-08,04:11:11,16211,Success
+TXN1233,Jennifer Clark,Female,2282105573317759,Kotak Bank,Nashik,Balance Enquiry,0,2025-04-07,02:16:37,49432,Failed
+TXN1234,Gregory Mccann,Male,1505053581552196,HDFC Bank,Nagpur,Cash Withdrawal,1019,2025-04-20,07:44:16,23757,Failed
+TXN1235,Julie Dixon,Female,2500083370218214,Kotak Bank,Pune,Balance Enquiry,0,2025-04-08,18:07:34,21802,Failed
+TXN1236,Christopher Donaldson,Male,8237087453340764,Kotak Bank,Nagpur,Mini Statement,0,2025-04-19,18:55:34,29463,Success
+TXN1237,Thomas Ward,Male,9673441898681273,Kotak Bank,Nagpur,Balance Enquiry,0,2025-04-17,12:15:47,8339,Failed
+TXN1238,Michael Moore,Male,9890216818780753,State Bank of India,Pune,Mini Statement,0,2025-04-08,10:26:00,32778,Success
+TXN1239,Kristina Davis,Female,0892519562109701,State Bank of India,Thane,Balance Enquiry,0,2025-04-13,02:30:39,31548,Failed
+TXN1240,Kimberly Garrett,Female,4684007042779731,State Bank of India,Nashik,Balance Enquiry,0,2025-04-18,00:09:46,4501,Failed
+TXN1241,Corey Watts,Male,7521663859495666,ICICI Bank,Pune,Balance Enquiry,0,2025-04-01,12:03:20,8855,Success
+TXN1242,Joseph Mejia,Male,8900719303682568,ICICI Bank,Pune,Cash Withdrawal,5834,2025-04-10,02:15:36,16397,Failed
+TXN1243,Holly Walker,Female,1190443415699792,Axis Bank,Thane,Cash Deposit,3616,2025-04-06,09:07:54,60990,Failed
+TXN1244,Robert Bell,Male,5173130917211265,HDFC Bank,Nagpur,Fund Transfer,8256,2025-04-20,00:28:42,10321,Failed
+TXN1245,Mr. Brent White,Male,0242039637481975,HDFC Bank,Pune,Fund Transfer,1435,2025-04-05,18:47:50,3699,Success
+TXN1246,Kelly Farmer,Female,3297301651178140,HDFC Bank,Nashik,Balance Enquiry,0,2025-04-05,17:14:24,22829,Success
+TXN1247,James Green,Male,1905171294479778,ICICI Bank,Nagpur,Fund Transfer,830,2025-04-13,20:57:10,12962,Success
+TXN1248,Vanessa Lopez,Female,6828036681418937,Axis Bank,Mumbai,Cash Deposit,1083,2025-04-01,07:25:15,16124,Success
+TXN1249,Howard Sellers,Male,2910432203032555,State Bank of India,Nashik,Cash Withdrawal,5670,2025-04-09,10:33:11,28659,Failed
+TXN1250,Anthony Brooks,Male,5380911982295943,ICICI Bank,Thane,Balance Enquiry,0,2025-04-14,01:10:47,6609,Failed
+TXN1251,Ashley Lewis,Female,4486474959760164,State Bank of India,Thane,Mini Statement,0,2025-04-11,09:17:43,41463,Success
+TXN1252,Tamara Rose,Female,9252962640544195,State Bank of India,Pune,Cash Deposit,3140,2025-04-07,13:46:39,12373,Failed
+TXN1253,Steven Delacruz,Male,7034736133671163,Axis Bank,Nagpur,Fund Transfer,3835,2025-04-10,01:30:15,48420,Failed
+TXN1254,Jill Barnes,Female,4190971957076383,Kotak Bank,Thane,Balance Enquiry,0,2025-04-17,02:27:50,28214,Failed
+TXN1255,Gina Holland,Female,5204368775838006,Axis Bank,Thane,Mini Statement,0,2025-04-12,21:20:11,35204,Success
+TXN1256,Derek Galvan,Male,2778504306322765,Axis Bank,Nashik,Balance Enquiry,0,2025-04-15,16:34:10,42338,Success
+TXN1257,Bianca Robertson,Female,5144570894913123,Kotak Bank,Thane,Cash Withdrawal,5049,2025-04-01,22:37:19,10356,Failed
+TXN1258,Phillip Morris,Male,0172816478467633,State Bank of India,Mumbai,Balance Enquiry,0,2025-04-02,15:33:15,33701,Failed
+TXN1259,Daniel Nelson,Male,6768448307400321,State Bank of India,Pune,Cash Withdrawal,8744,2025-04-15,13:06:48,36633,Success
+TXN1260,Jamie Rangel DDS,Female,5492805008266476,ICICI Bank,Pune,Cash Withdrawal,4923,2025-04-13,11:19:51,27571,Failed
+TXN1261,Sharon Martin,Female,7739886575115926,Axis Bank,Nagpur,Mini Statement,0,2025-04-10,08:23:58,5659,Failed
+TXN1262,Henry Bowen,Male,1418836668545169,HDFC Bank,Pune,Mini Statement,0,2025-04-21,17:27:16,46508,Success
+TXN1263,Sue Stevens,Female,0911655732951512,Kotak Bank,Mumbai,Cash Deposit,9052,2025-04-12,06:52:50,29442,Success
+TXN1264,Joseph Schultz,Male,8492687309034101,Kotak Bank,Pune,Fund Transfer,827,2025-04-16,20:41:04,31830,Success
+TXN1265,Chris Novak,Male,4643139432773038,HDFC Bank,Thane,Cash Withdrawal,8812,2025-04-02,23:58:35,40213,Failed
+TXN1266,Wanda Shelton,Female,4932042992156387,State Bank of India,Nagpur,Mini Statement,0,2025-04-04,14:52:14,34121,Success
+TXN1267,Alison Johnson,Female,5466312940947975,ICICI Bank,Nashik,Cash Deposit,2912,2025-04-09,09:30:33,11201,Failed
+TXN1268,Ronald Duncan,Male,9049874078738045,ICICI Bank,Mumbai,Cash Deposit,4089,2025-04-07,09:58:19,72891,Success
+TXN1269,Hayley Brown,Female,9621241375004850,Kotak Bank,Mumbai,Cash Deposit,1251,2025-04-19,09:01:27,63187,Failed
+TXN1270,Sonya Collins,Female,5249822809550749,State Bank of India,Pune,Fund Transfer,2328,2025-04-07,07:33:04,31846,Success
+TXN1271,Eric Vasquez,Male,9626570500715884,ICICI Bank,Pune,Cash Withdrawal,1280,2025-04-16,03:52:04,42330,Success
+TXN1272,Steven Evans,Male,3847365016046613,ICICI Bank,Thane,Cash Deposit,8415,2025-04-01,12:16:04,63108,Success
+TXN1273,Michelle Wade,Female,2331725273401547,State Bank of India,Nagpur,Balance Enquiry,0,2025-04-04,05:30:27,11940,Success
+TXN1274,Robin Rose,Female,4173168285934223,State Bank of India,Mumbai,Balance Enquiry,0,2025-04-16,02:36:26,41344,Failed
+TXN1275,Michelle Lee,Female,5420761404796279,State Bank of India,Mumbai,Mini Statement,0,2025-04-03,14:16:34,3862,Failed
+TXN1276,Cynthia Graham,Female,7856750142739421,Kotak Bank,Thane,Cash Deposit,2645,2025-04-21,19:53:19,48438,Failed
+TXN1277,Cole Sloan,Male,1274376415883821,Axis Bank,Pune,Cash Deposit,7309,2025-04-21,05:32:36,84157,Success
+TXN1278,Becky Cooper,Female,4688115492017370,Kotak Bank,Thane,Fund Transfer,9478,2025-04-21,20:17:36,30118,Failed
+TXN1279,Matthew Pena,Male,7239875718220518,HDFC Bank,Pune,Mini Statement,0,2025-04-08,22:48:41,19706,Failed
+TXN1280,John Rivera,Male,8404165255595749,ICICI Bank,Nashik,Balance Enquiry,0,2025-04-09,15:06:34,18711,Failed
+TXN1281,Robert White,Male,9733998729785197,State Bank of India,Pune,Fund Transfer,8211,2025-04-18,06:22:38,1778,Success
+TXN1282,Patricia Clark,Female,5517630159162688,State Bank of India,Nashik,Balance Enquiry,0,2025-04-09,04:18:43,45711,Failed
+TXN1283,Travis King,Male,3214497839571772,Kotak Bank,Mumbai,Fund Transfer,3163,2025-04-10,10:51:35,20271,Success
+TXN1284,Colleen Williams,Female,3035129929326448,Kotak Bank,Nashik,Balance Enquiry,0,2025-04-17,22:17:07,17317,Failed
+TXN1285,Lee Lewis,Male,5237427542574669,ICICI Bank,Pune,Balance Enquiry,0,2025-04-02,18:56:30,20070,Failed
+TXN1286,Christina Rodriguez,Female,7180099016042301,Axis Bank,Thane,Mini Statement,0,2025-04-08,05:38:20,48036,Success
+TXN1287,Janet Johnston,Female,3039386757089939,HDFC Bank,Nashik,Cash Withdrawal,7072,2025-04-12,07:54:46,45244,Success
+TXN1288,Stephanie Martin,Female,2145831012658049,Axis Bank,Nagpur,Balance Enquiry,0,2025-04-13,03:58:39,32064,Failed
+TXN1289,Thomas Santos,Male,0989787686340110,Axis Bank,Nagpur,Cash Withdrawal,6471,2025-04-07,13:22:44,36075,Failed
+TXN1290,Charlotte Smith,Female,4414588430410685,HDFC Bank,Mumbai,Balance Enquiry,0,2025-04-15,01:53:24,2436,Success
+TXN1291,Sarah Jones,Female,6786227884971110,HDFC Bank,Nashik,Balance Enquiry,0,2025-04-07,20:54:29,43081,Failed
+TXN1292,Julie Baker,Female,2470633585240146,ICICI Bank,Nashik,Fund Transfer,7487,2025-04-20,09:38:22,21376,Success
+TXN1293,Mary Smith,Female,1024173012962141,ICICI Bank,Pune,Cash Deposit,3249,2025-04-07,02:45:03,81235,Success
+TXN1294,Alexander Taylor,Male,7257630229113262,Kotak Bank,Pune,Cash Deposit,7927,2025-04-11,01:47:26,6808,Success
+TXN1295,Michele Simon,Female,4583439624529016,Axis Bank,Pune,Cash Withdrawal,8424,2025-04-09,16:24:38,29810,Failed
+TXN1296,Melinda Tucker,Female,6396887535138825,ICICI Bank,Nashik,Cash Withdrawal,7553,2025-04-13,09:10:38,26410,Success
+TXN1297,Scott Washington,Male,4492225163041010,Kotak Bank,Nashik,Fund Transfer,5142,2025-04-03,11:57:02,44735,Success
+TXN1298,Eric Hudson,Male,1202020333100084,HDFC Bank,Thane,Mini Statement,0,2025-04-08,14:14:43,4317,Failed
+TXN1299,Jacob Baker DVM,Male,3649671051980329,Kotak Bank,Nagpur,Balance Enquiry,0,2025-04-06,16:08:11,30484,Success
+TXN1300,Christy Johnson,Female,2406617893391845,Kotak Bank,Nashik,Cash Withdrawal,5481,2025-04-20,10:18:33,15234,Success
